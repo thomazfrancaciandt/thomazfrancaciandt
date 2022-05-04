@@ -2,13 +2,9 @@
 ### Thomaz França
 
 🎓 Analise e Desenvolvimento de Sistemas Senac Brasil.
-
 💼 Desenvolvedor Jr.
-
 💡 Desenvolvedor Web Formado pela Generation Brasil - JAVA e JavaScript.
-
 📫 thomazf@ciandt.com
-
 🖊️ https://www.linkedin.com/in/thomazfranca
 
 <div>
